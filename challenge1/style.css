@@ -1,0 +1,22 @@
+.img{
+    width: 300px;
+    color: white;
+    margin: 20px;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: rgb(70, 3, 78);
+    color: white
+    
+}
+.italic {
+        font-style: italic;
+
+        font-family:'Island Moments', cursive;
+
+}
+.paragragh {
+    font-family: 'Island Moments', cursive;
+}
