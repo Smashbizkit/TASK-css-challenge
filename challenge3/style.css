@@ -1,11 +1,27 @@
 /* Add your code in each class */
 .container {
+  height: 300px;
+  width: 400px;
+  position: relative;
+  overflow: scroll;
 }
 .head {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(266, 156, 4);
+  color: white;
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  align-content: center;
 }
-
+.list{
+  font-family: Arial, Helvetica, sans-serif;
+}
 .row {
   /* .row is used in ./index.js not in the html filee */
+background-color: white;
+color: black;
 }
 
 /* This is a gift - Does not need editing */
